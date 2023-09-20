@@ -1,8 +1,15 @@
 {
     "name": "logingrupa/shopaholicfacebookconversionapi-plugin",
     "type": "october-plugin",
-    "description": "No description provided yet...",
+    "description": "Facebook Conversion API implimentation for OctoberCMS Shopaholic e-Commerce plugin",
     "require": {
         "composer/installers": "~1.0"
-    }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "roulendz",
+            "email": "rolands.zeltins@inbox.lv"
+        }
+    ]
 }
