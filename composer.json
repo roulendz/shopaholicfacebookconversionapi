@@ -3,7 +3,8 @@
     "type": "october-plugin",
     "description": "Facebook Conversion API implimentation for OctoberCMS Shopaholic e-Commerce plugin",
     "require": {
-        "composer/installers": "~1.0"
+        "composer/installers": "~1.0",
+        "esign/laravel-conversions-api": "^2.2"
     },
     "license": "MIT",
     "authors": [
@@ -11,5 +12,10 @@
             "name": "roulendz",
             "email": "rolands.zeltins@inbox.lv"
         }
-    ]
+    ],
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
 }
