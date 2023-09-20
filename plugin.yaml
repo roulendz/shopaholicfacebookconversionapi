@@ -1,0 +1,8 @@
+plugin:
+    name: 'logingrupa.shopaholicfacebookconversionapi::lang.plugin.name'
+    description: 'logingrupa.shopaholicfacebookconversionapi::lang.plugin.description'
+    author: Logingrupa
+    icon: icon-smile-o
+    homepage: ''
+navigation:
+permissions:
